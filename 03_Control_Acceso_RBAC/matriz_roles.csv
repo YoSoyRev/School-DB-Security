@@ -1,0 +1,7 @@
+Recurso / Tabla,Rol_Administrador,Rol_Director,Rol_Docente,Rol_Finanzas,Rol_Alumno (Vista Propia)
+Tabla_Alumnos_Datos_Personales,Full Access,Read-Only,Read-Only,Read-Only,Read-Only (Self)
+Tabla_Calificaciones,Full Access,Read-Only,Read-Write,No Access,Read-Only (Self)
+Tabla_Historial_Medico,Full Access,Read-Only,No Access,No Access,No Access
+Tabla_Pagos_Facturacion,Full Access,Read-Only,No Access,Read-Write,Read-Only (Self)
+Tabla_Auditoria_Logs,Read-Only,Read-Only,No Access,No Access,No Access
+Tabla_Usuarios_Sistema,Full Access,No Access,No Access,No Access,No Acces
